@@ -152,3 +152,5 @@ machine.
 	</body>
 	...
 	```
+
+If we have missed something here please refer to this repo code for integration process.
