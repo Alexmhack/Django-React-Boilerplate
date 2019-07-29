@@ -119,7 +119,7 @@ machine.
 
 	Wondering why we have used `\"` or double quote instead of `'` or single quote is because the single quotes will work in terminal but not in windows's command prompt.
 
-4. Before running `npm run collect` install two more dependencies, `npm install renamer copyfiles`.
+4. Before running `npm run collect` install two more dependencies, `npm install -g renamer copyfiles`.
 
 5. Now define the `STATICFILES_DIRS` & `STATIC_ROOT` settings in **boileplate/settings.py** file and they should be have the same name as we have used in the **package.json** file.
 
