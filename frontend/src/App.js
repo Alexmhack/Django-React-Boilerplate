@@ -13,6 +13,9 @@ function App() {
         <p>
           This is another paragraph with some fake content.
         </p>
+        <p>
+          Yet another paragraph with some fake content.
+        </p>
       </header>
     </div>
   );
